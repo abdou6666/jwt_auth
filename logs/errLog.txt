@@ -7,3 +7,7 @@
 20220701	18:28:34	a7ee2fe8-57ed-47a9-9ad9-f7d37218c771	ReferenceError: userDB is not defined
 20220701	18:28:40	077496f4-9570-42b9-b020-816ba0893091	ReferenceError: userDB is not defined
 20220701	18:29:20	a33fbd8b-dd5c-429e-8f9d-2b6c16ae206a	ReferenceError: userDB is not defined
+20220713	12:30:40	85578086-4ed4-43a0-a3aa-0fe0a0e73201	TypeError: Cannot convert object to primitive value
+20220713	12:30:51	24126b81-420d-4852-a149-0dbd916b8734	TypeError: Cannot convert object to primitive value
+20220714	10:37:30	222798e1-0c72-469a-a363-701663746f2a	TypeError: authHeader.startWith is not a function
+20220714	12:33:32	cf4eaa1f-7c24-4f97-9ae4-f13f9f43834c	ReferenceError: test is not defined
